@@ -7,4 +7,4 @@
 
 По умолчанию выполнится 
 
-    python client.py --method GET --url / --host example.com
+    python client.py --method GET --url / --host www.google.com
